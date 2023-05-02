@@ -1,0 +1,58 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	text-align: center;
+	    
+	}
+#menu{
+	/*text-align: right;*/
+	padding: 10px;
+	background: #DAA520;/*GoldenRod*/
+	font-size:16px;
+	
+}
+
+h2{
+	padding: 5px;
+	margin-top:5px;
+	margin-bottom: 15px;
+}
+
+#titulo{
+	width: 400px;
+	height: 100px;
+	font-size: 30px;
+	margin:auto;
+	color: white;
+	background-color: #32CD32;
+	
+	
+}
+figure{
+	
+	margin-top: 30px;
+}
+
+
+#menu a{
+	text-decoration: none;
+	margin-left:20px;
+	background: #A52A2A;/*Brown*/
+	
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	color: white;
+	border: 2px solid #A52A2A;
+    border-radius: 5px;
+
+}
+#menu a:hover{
+	background: #D2691E;/*CHOCOLATE*/
+	border: 2px solid #D2691E;
+}
+

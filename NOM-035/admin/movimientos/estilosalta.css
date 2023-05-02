@@ -1,0 +1,60 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+
+#menu{
+	text-align: center;
+	padding: 10px;
+	background: #DAA520;/*GoldenRod*/
+	font-size:16px;
+	
+}
+
+
+#formulario{
+	/*background:red;*/
+	width:90%;
+	margin-left: auto;
+	margin-bottom: 20px;
+	
+}
+
+#titulo{
+	width: 200px;
+	height: 70px;
+	text-align: center;
+	font-size: 20px;
+	margin:auto;
+	color: white;
+	background-color: #32CD32;
+	
+	
+}
+
+
+
+.caja{
+  height: 25px;
+  margin: 10px;
+  
+
+}
+
+#btn{
+/*margin-top: 10px;*/
+font-size: 14px;
+font-weight: bold;
+border: 2px solid #3b6eae;
+border-radius: 5px;
+width: 120px;
+height: 32px;
+padding: 5px;
+background: #386bb0;/*mediumBlue*/
+color: white;
+}
+#btn:hover{
+  background: #2b5eb7;
+  
+}
