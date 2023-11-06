@@ -1,0 +1,6 @@
+Para poder instalar este sistema debemos primero instalar la base de datos en MySql en algun entorno como Xampp o Wampp
+Una Vez Instalado y configurada o clonada la BD podremos identificar 2 menus el administrador donde podremos
+visualizar la informacion de las plantas asi como los resultados de la misma para su analisis en "localhost/admin/index.html"
+la contraseña se encuentra en el archivo iniciar.php como una linea comentada //USUARIO = NOMBRE DE LA EMPRESA O ID CONTRASEÑA Sisnom035#
+mientras que en el segundo menu "localhost/index.html" podremos realizar la captura de datos de las plantas del 
+cuestionario de la NOM-035-STPS MX 
